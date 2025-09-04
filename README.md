@@ -2,15 +2,12 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/02c95a29-0caf-4abd-b3f1-dde2dbdd82c1
+**URL**: https://hambu.netlify.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/02c95a29-0caf-4abd-b3f1-dde2dbdd82c1) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
