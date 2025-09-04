@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				restaurant: {
+					primary: 'hsl(var(--restaurant-primary))',
+					'primary-hover': 'hsl(var(--restaurant-primary-hover))',
+					dark: 'hsl(var(--restaurant-dark))',
+					'dark-lighter': 'hsl(var(--restaurant-dark-lighter))',
+					text: 'hsl(var(--restaurant-text))',
+					'text-muted': 'hsl(var(--restaurant-text-muted))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
